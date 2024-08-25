@@ -34,16 +34,22 @@ Ingrediente
     <td>
       <ul>
         <li>210 g faina</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <li>1 lgt praf copt</li>
+        <li>2 oua</li>
+        <li>4 banane foarte coapte</li>
+        <li>75 g tahini</li>
+        <li>50 g sirop de artar</li>
+        <li>8 linguri unt topit</li>
+        <li>80 iaurt grecesc</li>
+        <li>1 lgt sare</li>
+        <li>1/2 lgt scortisoara</li>
+        <li>1/2 lgt extract de vanilie</li>
       </ul>
     </td>
     <td>
-      <ul>
-        <li>pas 1</li>
-        <li>Point B</li>
-        <li>Point C</li>
-      </ul>
+      se amesteca ingredientele uscate si se adauga ouale si bananele zdrobite<br><br>
+      se amesteca bla blabla balabala<br><br>
+      Line 3
     </td>
   </tr>
 </table>
