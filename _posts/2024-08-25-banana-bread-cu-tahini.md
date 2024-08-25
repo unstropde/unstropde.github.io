@@ -25,10 +25,10 @@ Ingrediente
 * 1/2 lgt extract de vanilie
 
 
-<table border="1">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th>Ingrediente</th>
-    <th>Mod de preparare</th>
+    <th style="text-align: left;">Ingrediente</th>
+    <th style="text-align: left;">Mod de preparare</th>
   </tr>
   <tr>
     <td>
@@ -47,5 +47,4 @@ Ingrediente
     </td>
   </tr>
 </table>
-
 
