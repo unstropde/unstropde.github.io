@@ -23,7 +23,7 @@ tags:
         <li>210 g faina</li>
         <li>1 lgt praf copt</li>
         <li>2 oua</li>
-        <li>4 banane foarte coapte</li>
+        <li>3 banane foarte coapte</li>
         <li>75 g tahini</li>
         <li>50 g sirop de artar</li>
         <li>8 linguri unt topit</li>
@@ -34,8 +34,9 @@ tags:
       </ul>
     </td>
     <td>
-      se amesteca ingredientele uscate si se adauga ouale si bananele zdrobite<br><br>
-      se amesteca bla blabla balabala<br><br>
+      Intr-un vas se amesteca faina, praful de copt, sarea, scortisoara si extractul de vanilie. <br><br>
+      In alt vas se zdrobesc bananele cu furculita si se adauga ouale. <br><br>
+      se adauga ouale. <br><br>
       Line 3
     </td>
   </tr>
