@@ -34,9 +34,12 @@ tags:
       </ul>
     </td>
     <td>
+      Se amesteca 2 linguri de tahini cu o lingura de sirop de artar,2 linguri de semninte de susan si un strop de sare. <br><br>
       Intr-un vas se amesteca faina, praful de copt, sarea, scortisoara si extractul de vanilie. <br><br>
-      In alt vas se zdrobesc bananele cu furculita si se adauga ouale. <br><br>
-      se adauga ouale. <br><br>
+      In alt vas se zdrobesc bananele cu furculita, se adauga ouale, tahini, iaurtul si untul. <br><br>
+      Compozitia de banane se adauga peste cea de faina. <br><br>
+      Se tapeteaza o tava de chec cu unt si se presara 2 linguri de seminte de susan. <br><br>
+      Se toarna jumatate din cantitatea de aluat in tava si se adauga jumatate din sosul de tahini, se deseneaya in zig-zag cu o furculita, apoi se adauga restul de aluat si deasupra se toarna restul de sos de tahini, desenand cu furculita un zig-zag. <br><br>
       Line 3
     </td>
   </tr>
