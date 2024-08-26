@@ -7,11 +7,11 @@ search: false
 
 $background-color: #fcf9f2 !default;
 $text-color: #9a452b !default;
-$muted-text-color: #40514e !default;
-$primary-color: #11999e !default;
-$border-color: mix(#fff, #40514e, 75%) !default;
-$footer-background-color: #30e3ca !default;
-$link-color: #11999e !default;
+$muted-text-color: #9a452b !default;
+$primary-color: #9a452b !default;
+$border-color: mix(#fff, #9a452b, 75%) !default;
+$footer-background-color: #9a452b !default;
+$link-color: #9a452b !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
