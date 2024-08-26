@@ -6,12 +6,12 @@ search: false
 @charset "utf-8";
 
 $background-color: #FEE9D6 !default;
-$text-color: #BB674E !default;
-$muted-text-color: #BB674E !default;
-$primary-color: #BB674E !default;
-$border-color: mix(#fff, #BB674E, 75%) !default;
-$footer-background-color: #BB674E !default;
-$link-color: #BB674E !default;
+$text-color: #5B433C !default;
+$muted-text-color: #5B433C !default;
+$primary-color: #5B433C !default;
+$border-color: mix(#fff, #5B433C, 75%) !default;
+$footer-background-color: #5B433C !default;
+$link-color: #5B433C !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
