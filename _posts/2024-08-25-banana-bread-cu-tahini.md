@@ -1,7 +1,7 @@
 ---
 title: "banana bread cu un strop de tahini"
 header:
-  image: /assets/images/IMG_1889.jpg
+  image: /assets/images/IMG_2113.jpg
   caption: "test caption: [Test](https://test)"
 last_modified_at: 2016-03-09T16:20:02-05:00
 author_profile: false
