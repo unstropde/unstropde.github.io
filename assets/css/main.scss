@@ -15,3 +15,4 @@ $link-color: #5B433C !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
