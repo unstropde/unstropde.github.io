@@ -5,13 +5,13 @@ search: false
 
 @charset "utf-8";
 
-$background-color: #fcf9f2 !default;
-$text-color: #9a452b !default;
-$muted-text-color: #9a452b !default;
-$primary-color: #9a452b !default;
-$border-color: mix(#fff, #9a452b, 75%) !default;
-$footer-background-color: #9a452b !default;
-$link-color: #9a452b !default;
+$background-color: #FEE9D6 !default;
+$text-color: #BB674E !default;
+$muted-text-color: #BB674E !default;
+$primary-color: #BB674E !default;
+$border-color: mix(#fff, #BB674E, 75%) !default;
+$footer-background-color: #BB674E !default;
+$link-color: #BB674E !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
