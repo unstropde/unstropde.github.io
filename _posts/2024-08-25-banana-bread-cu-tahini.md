@@ -14,8 +14,8 @@ tags:
 ---
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="text-align: left;">Ingrediente</th>
-    <th style="text-align: left;">Mod de preparare</th>
+    <th style="text-align: left;width: 40%;vertical-align: top">Ingrediente</th>
+    <th style="text-align: left;width: 60%;vertical-align: top">Mod de preparare</th>
   </tr>
   <tr>
     <td>
