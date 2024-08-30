@@ -1,5 +1,5 @@
 ---
-title: "salata de cartofi crocanți cu verdețuri și un strop de paprika…"
+title: "salata de cartofi crocanți cu verdețuri și un strop...paprika"
 header:
   image: /assets/images/IMG_2010.jpg
   caption: "test caption: [Test](https://test)"
