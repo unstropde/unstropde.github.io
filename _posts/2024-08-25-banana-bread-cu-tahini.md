@@ -14,11 +14,11 @@ tags:
 ---
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="text-align: left;width: 40%;vertical-align: top">Ingrediente</th>
-    <th style="text-align: left;width: 60%;vertical-align: top">Mod de preparare</th>
+    <th style="text-align: left;width: 40%;">Ingrediente</th>
+    <th style="text-align: left;width: 60%;">Mod de preparare</th>
   </tr>
   <tr>
-    <td>
+    <td style="vertical-align: top;">
       <ul>
         <li>200g faina</li>
         <li>1 lingurita praf copt</li>
@@ -33,7 +33,7 @@ tags:
         <li>50g iaurt grecesc</li>
       </ul>
     </td>
-    <td>
+    <td style="vertical-align: top;>
       Intr-un bol mic amesteca 2 linguri de tahini cu o lingura de sirop de artar, 2 linguri de semninte de susan si un strop de sare. <br><br>
       Intr-un alt bol, amesteca faina, praful de copt, sarea, scortisoara si extractul de vanilie. <br><br>
       Zdrobeste bananele cu furculita in alt vas si adauga ouale, tahini, iaurtul si untul topit. <br><br>
