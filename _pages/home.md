@@ -6,14 +6,14 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_2113.jpg
 feature_row:
-  - image_path: /assets/images/IMG_2010.jpg
+  - image_path: /assets/images/IMG_2010_thumb.jpg
     alt: "salata de cartofi crocanti si un strop de paprika..."
     title: "salata de cartofi crocanti si un strop de paprika..."
     excerpt: "Salata usoara, hranitoare si crocanta, perfecta pentru o cina de vara."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/IMG_2113.jpg
+  - image_path: /assets/images/IMG_2113_thumb.jpg
     alt: "banana bread cu un strop de tahini"
     title: "banana bread cu un strop de tahini"
     excerpt: "Banana bread cu aroma de tahini, fara zahar, hranitor si pentru bebelusi."
