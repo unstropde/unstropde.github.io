@@ -20,7 +20,7 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/IMG_2239_thumb.jpg
     alt: "galuste pufoase cu prune"
     title: "galuste cu prune"
     excerpt: "Galuste pufoase din cartofi cu prune si pesmet caramelizat."
