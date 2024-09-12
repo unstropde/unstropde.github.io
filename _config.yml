@@ -90,7 +90,7 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
-  # _posts
+  # _blog
   - scope:
       path: ""
       type: posts
@@ -109,7 +109,7 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
+retete_archive:
   type: liquid
   path: /categories/
 tag_archive:
