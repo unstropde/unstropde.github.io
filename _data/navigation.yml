@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
+  - title: "retete"
     url: /categories/
+  - title: "blog"
+    url: /posts/
+  - title: "despre mine"
+    url: /about/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
