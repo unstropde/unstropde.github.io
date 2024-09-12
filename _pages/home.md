@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/vinete_thumb.jpg
+  overlay_image: /assets/images/granola_tava_fin_thumb.jpg
 feature_row:
   - image_path: /assets/images/IMG_2010_thumb.jpg
     alt: "salata de cartofi crocanti si un strop de paprika..."
