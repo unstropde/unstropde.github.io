@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Splash Page"
 layout: splash
 permalink: /
 hidden: false
