@@ -12,7 +12,7 @@
         {% if f.image_path %}
           {% if f.url %}
             <div class="archive__item-teaser">
-              <a href="{{ f.url | relative_url }}"
+              <a href="{{ f.url | relative_url }}">
                 <img src="{{ f.image_path | relative_url }}"
                      alt="{% if f.alt %}{{ f.alt }}{% endif %}">
               </a>
