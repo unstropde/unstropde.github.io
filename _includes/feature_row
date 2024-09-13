@@ -26,7 +26,7 @@
         <div class="archive__item-body">
           {% if f.title %}
             {% if f.url %}
-              <a href="{{ f.url | relative_url }}">
+              <a href="{{ f.url | relative_url }}" style="text-decoration:none">
                 <h2 class="archive__item-title">{{ f.title }}</h2>
               </a>
             {% endif %}
