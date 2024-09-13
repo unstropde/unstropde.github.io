@@ -12,8 +12,6 @@ feature_row:
     title: "salata de cartofi crocanti si un strop de paprika..."
     excerpt: "Salata usoara, hranitoare si crocanta, perfecta pentru o cina de vara."
     url: "/blog/salata-de-cartofi-crocanti-si-un-strop-de-paprika/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/IMG_2113_thumb.jpg
     alt: "banana bread cu un strop de tahini"
     title: "banana bread cu un strop de tahini"
