@@ -2,7 +2,7 @@
 title: "banana bread cu un strop de tahini"
 header:
   image: /assets/images/IMG_2113.jpg
-  caption: "©copyright Irina Danciu [](https://test)"
+  caption: "©2024 Irina Danciu [](https://test)"
 last_modified_at: 2016-03-09T16:20:02-05:00
 author_profile: false
 categories:
