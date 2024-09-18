@@ -11,7 +11,7 @@ $muted-text-color: #c0521f !default;
 $primary-color: #EBE1CD !default;
 $border-color: mix(#fff, #f0e7d4, 75%) !default;
 $footer-background-color: #faf2f0 !default;
-$link-color: #faf2f0 !default;
+$link-color: #5C2B1F !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
