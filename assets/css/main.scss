@@ -5,12 +5,12 @@ search: false
 
 @charset "utf-8";
 
-$background-color: #faf2f0 !default;
+$background-color: #FEFBFD !default;
 $text-color: #894329 !default;
 $muted-text-color: #c0521f !default;
 $primary-color: #EBE1CD !default;
 $border-color: mix(#fff, #f0e7d4, 75%) !default;
-$footer-background-color: #faf2f0 !default;
+$footer-background-color: #FEFBFD !default;
 $link-color: #894329 !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
