@@ -1,8 +1,0 @@
-main:
-  - title: "retete"
-    url: /categories/
-  - title: "blog"
-    url: /posts/
-  - title: "despre mine"
-    url: /about/
-  
