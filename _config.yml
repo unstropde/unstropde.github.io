@@ -5,7 +5,7 @@ baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 title: Parsa | Portfolio Jekyll Template
-logo: /assets/images/Grün Schwarz Minimalistisch Design Logo.png # You can add own logo
+logo: /assets/images/Logo1.png # You can add own logo
 description: # Add your awesome description
 copyright: Copyright 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
 # Preloader
