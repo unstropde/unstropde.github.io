@@ -4,7 +4,7 @@ title: "galuste cu prune"
 date: 2024-09-12 14:46:10 +03:00
 description: "This is meta description"
 featured: true
-image: "/assets/images/granola_fin.jpg"
+image: "/assets/images/IMG_2239.jpg"
 categories:
   - Blog
 ---
