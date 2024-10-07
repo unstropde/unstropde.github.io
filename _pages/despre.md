@@ -1,7 +1,7 @@
 ---
 layout: page
 title: despre mine
-permalink: /despremine/
+permalink: /despre/
 image: /assets/images/author.jpg
 ---
 <h3 class="font-weight-light">Hei, servus! Eu sunt Irina <span class="font-weight-bold">{{Irina}}</span></h3>
