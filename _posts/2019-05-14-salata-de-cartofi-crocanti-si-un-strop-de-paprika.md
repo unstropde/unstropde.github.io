@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Charming Evening Field"
-date: 2019-05-14T 20:46:10 +03:00
+title: "salata de cartofi crocanți cu verdețuri și un strop de paprika…"
+date: 2024-09-14T 20:46:10 +03:00
 description: "This is meta description"
-image: "assets/images/masonary-post/post-1.jpg"
+image: "assets/images/masonary-post/salata_cartofi_crocanti_thumb.jpg"
 categories: 
   - "Food"
 ---
