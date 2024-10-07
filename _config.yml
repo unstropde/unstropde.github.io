@@ -15,7 +15,7 @@ menu:
   - name: Home
     url: /
   - name: despre mine
-    url: /despre mine/
+    url: /despre/
   - name: contact
     url: /contact/
 
