@@ -1,4 +1,4 @@
-p---
+---
 layout: page
 title: despre mine
 permalink: /despre-mine/
