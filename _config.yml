@@ -43,19 +43,19 @@ hero:
 #-------------------------------
 # Author Settings
 author:
-  name: Jhon Abraham
+  name: Irina
 
 #-------------------------------
 # Contact Info
 contact:
-  email: example@ymail.com
-  phone: +90 000 333 22
+  email: mail@unstropde.com
+  phone: 
   address:
-    city: Sydney
-    street: 6 rip carl Avenue CA 90733
+    city: 
+    street: 
 
 # Contact Form
-contact-form: example@email.com
+contact-form: mail@unstropde.com
 
 # Social links
 social:
