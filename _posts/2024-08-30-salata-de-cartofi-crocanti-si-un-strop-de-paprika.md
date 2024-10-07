@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "salata de cartofi crocanți cu verdețuri și un strop...paprika"
+title: "salata de cartofi crocanți cu verdețuri și un strop de...paprika"
+o salata usoara de vara, perfecta pentru un picnic in parc, garnitura la gratar sau un pranz rapid la birou. 
 date: 2024-08-30 14:46:10 +03:00
 description: "This is meta description"
 featured: true
