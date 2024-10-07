@@ -19,7 +19,6 @@ eat the rainbow, feel the power…
   </tr>
   <tr>
     <td style="text-align: left;width: 40%;vertical-align: top;">
-      <ul>
         Pentru salată<br><br>
         500g cartofi mici<br><br>
         2 linguri ulei de măsline<br><br>
@@ -37,7 +36,6 @@ eat the rainbow, feel the power…
         1 lingură zeama de lămaie<br><br>
         1 linguriță coaja rasa de lămaie<br><br>
         sare si piper după gust<br><br>
-      </ul>
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
       1. Fierbe cartofii in coajă apoi scurge-i și lasă-i să se răcească puțin. <br><br>
