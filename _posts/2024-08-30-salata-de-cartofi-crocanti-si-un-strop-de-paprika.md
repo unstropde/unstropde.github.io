@@ -20,23 +20,23 @@ eat the rainbow, feel the power…
   <tr>
     <td style="text-align: left;width: 40%;vertical-align: top;">
       <ul>
-        <li>Pentru salată</li>
-        <li>500g cartofi mici</li>
-        <li>2 linguri ulei de măsline</li>
-        <li>1/2 linguriță paprika dulce</li>
-        <li>1/2 linguriță sare</li>
-        <li>4 crenguțe de mărar</li>
-        <li>4 crenguțe de pătrunjel</li>
-        <li>6 frunze de mentă</li>
-        <li>3 ridichi</li>
-        <li>2 maini de salată rucola</li>
-        <li>Pentru dressing</li>
-        <li>1 ceapă mică rosie</li>
-        <li>2 lingurițe de mustar Dijon</li>
-        <li>2 linguri ulei de măsline</li>
-        <li>1 lingură zeama de lămaie</li>
-        <li>1 linguriță coaja rasa de lămaie</li>
-        <li>sare si piper după gust</li>
+        Pentru salată<br><br>
+        500g cartofi mici<br><br>
+        2 linguri ulei de măsline<br><br>
+        1/2 linguriță paprika dulce<br><br>
+        1/2 linguriță sare<br><br>
+        4 crenguțe de mărar<br><br>
+        4 crenguțe de pătrunjel<br><br>
+        6 frunze de mentă<br><br>
+        3 ridichi<br><br>
+        2 maini de salată rucola<br><br>
+        Pentru dressing<br><br>
+        1 ceapă mică rosie<br><br>
+        2 lingurițe de mustar Dijon<br><br>
+        2 linguri ulei de măsline<br><br>
+        1 lingură zeama de lămaie<br><br>
+        1 linguriță coaja rasa de lămaie<br><br>
+        sare si piper după gust<br><br>
       </ul>
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
