@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: despre mine
+permalink: /despre mine/
 image: /assets/images/author.jpg
 ---
-<h3 class="font-weight-light">Hello, I’m <span class="font-weight-bold">{{site.author.name}}</span></h3>
+<h3 class="font-weight-light">Hei, servus! Eu sunt Irina <span class="font-weight-bold">{{site.author.name}}</span></h3>
 
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+si imi plac mai mult oalele frumoase si grele decat pantofii cu toc. Imi place mancarea buna, simpla si proaspata,ciocolata neagra, 99% cacao e preferata mea, beau cappuccino doar cand mi-e foame in rest prefer un epresso moale, de preferinta cu boabe prajite bine.
 
-I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+Gatesc de cand ma stiu, prima mancare pe care am invatat sa o fac a fost ciorba de fasole verde cu multe frunze busuioc si de telina. 
+Imi plac pastele sub toate formele si sfecla rosie e ingredientul preferat. Legumele si fructele colorate ma inspira si le prefer in favoarea carnii, dar nu sunt 100% vegetariana iar fara branza si paine nu inchei nici un mic dejun.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+De multe ori uit de mine in lumea www-ului prin blog-uri de retete, iar rafturile din biblioteca le umplu cu carti de bucate.
+Cand nu sunt la locul de joaca, birou sau hai hui pe strazi sau prin cafenele, testez retete noi sau rasfoiesc dupa retete si fac planuri de meniu pentru cine cu prietenii.
