@@ -8,6 +8,10 @@ categories:
   - "Food"
 ---
 
+O salata usoara, perfecta pentru un picnic in parc, garnitura la gratar sau chiar ca fel principal pentru o cina usoara de vara sau un pranz rapid la birou. Combinatia de ierburi proaspete - marar, patrunjel si menta- ii ofera o nota de prospetime care completeaza foarte bine textura cremoasa a cartofilor. Ridichile crocante si rucola picanta ii oferă un contrast surprinzator, care face sa vrei mai mult.
+
+eat the rainbow, feel the power…
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="text-align: left;width: 40%;vertical-align: top;">Ingrediente</th>
