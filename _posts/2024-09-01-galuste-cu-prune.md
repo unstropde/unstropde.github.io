@@ -16,14 +16,12 @@ categories:
   </tr>
   <tr>
     <td style="text-align: left;width: 40%;vertical-align: top;">
-      <ul>
-        <li>cartofi fierti </li>
-        <li>oua</li>
-        <li>1 praf de praf de copt</li>
-        <li>1 lingurita scortisoara</li>
-        <li>1/4 lingurita sare</li>
-        <li>1/4 lingurita praf de vanilie</li>
-      </ul>
+        1 kg cartofi fierti<br><br>
+        2 oua<br><br>
+        1/4 lingurita praf de copt<br><br>
+        1 lingurita scortisoara<br><br>
+        1/4 lingurita sare<br><br>
+        1/4 lingurita praf de vanilie<br><br>
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
       Amesteca toate ingredientele
