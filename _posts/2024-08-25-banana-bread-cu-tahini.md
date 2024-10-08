@@ -11,8 +11,8 @@ categories:
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="text-align: left;width: 40%;vertical-align: top;">**Ingrediente**</th>
-    <th style="text-align: left;width: 60%;vertical-align: top;">**Mod de preparare**</th>
+    <th style="text-align: left;width: 40%;vertical-align: top;"><strong>Ingrediente</strong></th>
+    <th style="text-align: left;width: 60%;vertical-align: top;"><strong>Mod de preparare</strong></th>
   </tr>
   <tr>
     <td style="text-align: left;width: 40%;vertical-align: top;">
