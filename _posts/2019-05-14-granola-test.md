@@ -3,7 +3,7 @@ layout: post
 title: "granola test"
 date: 2019-05-14 12:46:10 +03:00
 description: "This is meta description"
-image: "assets/images/granola_tava_mic_thumbs.jpg"
+image: "assets/images/granola_tava_mic_thumb.jpg"
 categories: 
   - "Food"
 ---
