@@ -3,6 +3,7 @@ layout: post
 title: "salata de cartofi crocanți cu verdețuri și un strop de paprika…"
 date: 2024-09-14T 20:46:10 +03:00
 description: "This is meta description"
+featured: false
 image: "assets/images/masonary-post/salata_cartofi_crocanti_thumb.jpg"
 categories: 
   - "Food"
