@@ -3,7 +3,7 @@ layout: post
 title: "banana bread cu un strop de tahini"
 date: 2024-08-25 14:46:10 +03:00
 description: "This is meta description"
-featured: true
+featured: false
 image: "/assets/images/IMG_2113.jpg"
 categories:
   - Blog
