@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Charming Evening Field"
+title: "curry night"
 date: 2019-05-14 11:46:10 +03:00
 description: "This is meta description"
-image: "assets/images/masonary-post/post-10.jpg"
+image: "assets/images/masonary-post/curry_thumbs.jpg"
 categories: 
   - "Food"
 ---
