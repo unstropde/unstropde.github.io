@@ -15,8 +15,12 @@ menu:
   - name: Home
     url: /
     submenu:
-    - name: categorii
-      url: /categorii/
+    - name: salate
+      url: /salate/
+    - name: supe
+      url: /supe/
+    - name: ceva dulce
+      url: /ceva dulce/
   - name: despre mine
     url: /despre/
   - name: contact
