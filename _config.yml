@@ -4,7 +4,7 @@
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
-title: un strop de... | ceva bun.
+title: un strop de... | ceva bun
 logo: /assets/images/Logo2.jpg # You can add own logo
 description: # Add your awesome description
 copyright: Copyright 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
@@ -15,8 +15,8 @@ menu:
   - name: Home
     url: /
     submenu:
-#     - name: categorii
-#       url: /categorii/
+    - name: categorii
+      url: /categorii/
   - name: despre mine
     url: /despre/
   - name: contact
