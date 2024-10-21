@@ -9,6 +9,8 @@ categories:
   - Blog
 ---
 
+încă nu am reușit să fac acel “cel mai bun cheesecake” mancat acu’ muuulti ani cu tata intr-un un restaurant pe autostradă in Germania. Amintirea gustului de atunci nu am putut-o reproduce, dar cheesecake-ul ăsta cu mac și un strop de vanilie se apropie destul de mult de perfectiunea din amintirea mea.  
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="text-align: left;width: 40%;vertical-align: top;">Ingrediente</th>
