@@ -1,10 +1,10 @@
 ---
 layout: post
-title: “cheesecake cu mac si un strop de vanilie"
+title: "cheesecake cu mac si un strop de vanilie"
 date: 2024-10-21 14:46:10 +03:00
 description: "This is meta description"
 featured: false
-image: “/assets/images/cheesecake_cu_mac_thumb.jpg"
+image: "/assets/images/cheesecake_cu_mac_thumb.jpg"
 categories:
   - Blog
 ---
