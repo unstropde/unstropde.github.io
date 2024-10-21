@@ -15,7 +15,7 @@ categories:
     <th style="text-align: left;width: 60%;vertical-align: top;">Mod de preparare</th>
   </tr>
   <tr>
-    <td style="text-align: left;width: 40%;vertical-align: top;”>
+    <td style="text-align: left;width: 40%;vertical-align: top;">
         Ingrediente<br><br>
         220g faina<br><br>
         1/2 lingurită praf de copt<br><br>
