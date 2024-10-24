@@ -18,7 +18,6 @@ categories:
   </tr>
   <tr>
     <td style="text-align: left;width: 40%;vertical-align: top;">
-        Ingrediente<br><br>
         220g faina<br><br>
         1/2 lingurită praf de copt<br><br>
         1 praf de sare<br><br>
@@ -42,7 +41,7 @@ categories:
         1 vârf de cutit de praf de vanilie/ esență de vanilie<br><br>
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
-      Mod de preparare: Începe cu aluatul: într-un bol se amestecă făina, praful de copt, zahărul și un strop de sare. 
+      Începe cu aluatul: într-un bol se amestecă făina, praful de copt, zahărul și un strop de sare. 
       Se adaugă untul rece și oul. Eu am folosit robotul de bucătărie, se poate și cu mixerul. Aluatul obținut se întinde pe fundul unei
       tăvi rotunde (diametrul de 26 cm), astfel încât să acopere și marginea tăvii cu aproximativ 3 cm. Se pune la frigider pană se 
       prepară celelalte  compozitii.<br><br>
