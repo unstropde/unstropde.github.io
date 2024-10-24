@@ -3,7 +3,6 @@ layout: post
 title: "chec de toamnă cu mere, miere si migdale"
 date: 2024-10-25 14:46:10 +03:00
 description: "This is meta description"
-featured: false
 image: "/assets/images/chec_mere_thumb.jpg"
 categories:
  - "Food"
