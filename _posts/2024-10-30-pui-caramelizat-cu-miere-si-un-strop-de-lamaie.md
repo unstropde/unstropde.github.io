@@ -4,7 +4,7 @@ title: "pui caramelizat cu miere și un strop de lămâie"
 date: 2024-08-25 14:46:10 +03:00
 description: "This is meta description"
 featured: false
-image: "/assets/images/pui_miere_lamaie_gatit_thumb.jpg"
+image: "/assets/images/pui_miere_lamaie_gatit_thumb.jpeg"
 categories:
   - Blog
 ---
