@@ -5,7 +5,7 @@ date: 2024-10-25 14:46:10 +03:00
 description: "This is meta description"
 image: "/assets/images/chec_mere_thumb.jpg"
 categories:
- - "Food"
+  - "Food"
 ---
 
 în cautarea unei prajituri de toamna cu mere in care totusi sa nu iti dai seama ca sunt mere:) am descoperit aceasta reteta pe care am facut-o de cel putin doua ori pe saptamana in ultimele 2 luni. Se prepara simplu si rapid, o reteta perfecta pentru zilele cand nu am prea mult timp la dispozitie, dar am "nevoie" de ceva dulce. Bun de servit langa o cafea tare sau un ceai fierbinte, checul cu mere, miere si migdale devine si mai special dupa ce sta cateva ore si aromele "se imprietenesc"
