@@ -9,7 +9,7 @@ categories:
   - Blog
 ---
 
-cum am avut prima revelație că dulcele și carnea sunt BFF (Best Food Friends): Marea Nordului, o zi când norii păreau că s-au certat cu soarele, vântul sufla de parcă avea ceva personal cu umbreluțele de plajă și noi, grupul de copii care ignoram totul în jur și ne îngropam unii pe alții în nisip.
+cum am avut prima revelație că dulcele și carnea sunt BFF (Best Food Friends): Marea Nordului, o zi când norii păreau că s-au certat cu soarele și noi, grupul de copii care ignoram totul în jur și ne îngropam unii pe alții în nisip.
 Apoi…MOMENTUL: descoperirea chiftelelor inmuiate in gem. Boom! Explozie de gust. De atunci am devenit fan al combinațiilor dulce-sărat.
 Rețeta asta e simplă, dar cu substanță. Dacă nu iți place feniculul, lasă-l deoparte, dar nu renunța la chimen!
 
@@ -35,14 +35,14 @@ Rețeta asta e simplă, dar cu substanță. Dacă nu iți place feniculul, lasă
       1 linguriță semințe de fenicul<br><br>
       1 linguriță semințe de chimen<br><br>
       1 linguriță paprika<br><br>
-      1/2 linguriță paprika afumata<br><br>
+      1/2 linguriță paprika afumată<br><br>
       sare și piper<br><br>
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
       Spală carnea de pui și condimenteaz-o generos cu sare și piper.<br><br>
       Taie legumele în bucăti aproximativ egale.<br><br>
       Pune legumele și carnea în tavă adaugă condimentele și pune-le în cuptorul preîncălzit la 200 grade pentru o oră.<br><br>
----
+      
     </td>
   </tr>
 </table>
