@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Charming Evening Field"
+title: "Chec aromat cu lichior de oua"
 date: 2019-05-14 15:46:10 +03:00
 description: "This is meta description"
-image: "assets/images/masonary-post/post-6.jpg"
+image: "assets/images/chec_aromat_lichior_oua_thumb.jpg"
 categories: 
   - "Food"
 ---
