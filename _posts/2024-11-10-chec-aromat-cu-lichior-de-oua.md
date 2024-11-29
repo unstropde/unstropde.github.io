@@ -34,9 +34,9 @@ toamnă târzie, frig, ceață, poftă de ceva dulce.
         120 g miere<br><br>
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
-        Unge o forma de chec/ Gugelhupf bine cu unt si tapeteaz-o cu faina.<br><br>
-        Amesteca faina cu praful de copt, condimentele si cele patru linguri de cacao.<br><br>
-        Amesteca uleiul cu lichiorul de oua, mierea si ouale si amesteca-le cu ingredientele uscate.<br><br>
+        Unge o formă de chec/ Gugelhupf bine cu unt si tapeteaz-o cu făină.<br><br>
+        Amestecă făina cu praful de copt, condimentele si cele patru linguri de cacao.<br><br>
+        Amestecă uleiul cu lichiorul de ouă, mierea si ouăle si amestecă-le cu ingredientele uscate.<br><br>
     </td>
   </tr>
 </table>
