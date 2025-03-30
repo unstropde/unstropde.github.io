@@ -11,8 +11,6 @@ categories:
 
 un "cozonac" altfel, aromat si pufos, numai bun de luat la un picnic in parc.
 
-eat the rainbow, feel the power…
-
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="text-align: left;width: 40%;vertical-align: top;">Ingrediente</th>
@@ -21,9 +19,9 @@ eat the rainbow, feel the power…
   <tr>
     <td style="text-align: left;width: 40%;vertical-align: top;">
         400g făină albă<br><br>
-        100g făină integrală
+        100g făină integrală<br><br>
         7 g drojdie uscată<br><br>
-        1 linguriță miere
+        1 linguriță miere<br><br>
         80 g unt topit<br><br>
         230 ml lapte călduț<br><br>
         1/2 linguriță sare<br><br>
@@ -37,7 +35,7 @@ eat the rainbow, feel the power…
       4. Preincălzește cuptorul la 200°C. <br><br>
       3. Intinde aluatul sub forma de dreptunghi (40x30cm) si unge-l cu pesto. Adauga mozzarella rupta bucati si ruleaza-l. <br><br>
       4. Taie aluatul rulat pe lungime, ast´fel incat la un capat sa mai fie legat. suceste cele doua parti si aseaza cozonacul in tava tapetata cu hartie de copt. <br><br>
-      5. acopera tava cu servetul de bucatarie si mai lasa aluatul inca 20 de minute la dospit in tava apoi pune-l la copt penbtru aprox. 30-35 de minute.
+      5. acopera tava cu servetul de bucatarie si mai lasa aluatul inca 20 de minute la dospit in tava apoi pune-l la copt penbtru aprox. 30-35 de minute.<br><br>
       6. Lasa cozonacul sa se raceasca putin in tava, apoi scoate-l din forma. <br><br>
     </td>
   </tr>

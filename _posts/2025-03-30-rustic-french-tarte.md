@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "rustic french tarte"
-date: 2025-03-30 14:46:10 +03:00
+date: 2025-03-30T 14:46:10 +03:00
 description: "This is meta description"
 featured: false
 image: "/assets/images/rustic_french_tarte_thumb.jpeg"
@@ -20,7 +20,7 @@ cum a........
     <td style="text-align: left;width: 40%;vertical-align: top;">
       For the pastry dough:<br><br>
       150g all-purpose flour<br><br>
-      100g buckwheat flour
+      100g buckwheat flour<br><br>
       1 pinch of salt<br><br>
       1 tsp baking soda<br><br>
       1 tbsp brown sugar<br><br>
