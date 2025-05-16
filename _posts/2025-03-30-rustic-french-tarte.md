@@ -9,7 +9,7 @@ categories:
   - Blog
 ---
 
-cum a........
+sweet, crunchy, earthy........
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -26,7 +26,7 @@ cum a........
       1 tbsp brown sugar<br><br>
       3 tbsp olive oil<br><br>
       3 tbsp milk<br><br>
-      100 g quark<br><br>
+      100 g butter<br><br>
       1 tsp orange zest<br><br>
       1/4 tsp vanilla extract<br><br>
       For the filling:<br><br>
