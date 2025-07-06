@@ -12,17 +12,18 @@ categories:
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="text-align: left;width: 40%;vertical-align: top;">Ingredients</th>
-    <th style="text-align: left;width: 60%;vertical-align: top;">how to</th>
+    <th style="text-align: left;width: 60%;vertical-align: top;">How to</th>
   </tr>
   <tr>
     <td style="text-align: left;width: 40%;vertical-align: top;">
-        Tart Dough (aka "Please Don't Fall Apart On Me"):
+        Tart Dough (aka "Please Don't Fall Apart On Me"):<br><br>
         220g flour (I used whole wheat) <br><br>
         110g cold butter, cubed <br><br>
         1/2 tsp salt <br><br>
         1/2 tsp Italian seasoning <br><br>
         1 large egg <br><br>
         2-3 tbsp cold water <br><br>
+
         The Tomato <br><br>
         3 large tomatoes <br><br>
         1 tsp brown sugar <br><br>
@@ -41,9 +42,6 @@ categories:
 </table>
 
 
-![]({{site.baseurl}}/assets/images/post-img.jpg)
-
 The Verdict
 Twenty minutes later, you'll have something that looks like it came from a fancy French café. The tomatoes will be sweet and jammy, the crust will be flaky, and you'll feel like you've accomplished something meaningful.
-Plus, if it looks wonky, just call it "rustic" and charge extra.
 Bon appétit!
