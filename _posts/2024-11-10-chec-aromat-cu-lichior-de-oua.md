@@ -3,7 +3,7 @@ layout: post
 title: "chec aromat cu lichior de oua"
 date: 2024-11-10 14:46:10 +03:00
 description: "This is meta description"
-featured: true
+featured: false
 image: "/assets/images/chec_aromat_lichior_oua_thumb.jpg"
 categories:
   - Blog
