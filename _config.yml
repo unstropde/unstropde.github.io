@@ -107,6 +107,9 @@ tag_page_layout: tag_page
 tag_permalink_style: pretty
 
 # categories
+category_archive:
+  type: jekyll-archives
+  path: /category/
 jekyll-archives:
   enabled: all
   layout: category
