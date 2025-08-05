@@ -6,8 +6,8 @@ description: "This is meta description"
 featured: true
 image: "assets/images/featured-post/tomatoes_galette_thumb.jpg"
 categories: 
-  - "Philosophy"
-...
+  - "Food"
+---
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>

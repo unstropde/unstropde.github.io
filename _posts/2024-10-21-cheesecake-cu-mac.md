@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: false
 image: "/assets/images/cheesecake_cu_mac_thumb.jpg"
 categories:
-  - Blog
+  - "Blog"
 ---
 
 încă nu am reușit să fac acel “cel mai bun cheesecake” mancat acu’ muuulti ani cu tata intr-un un restaurant pe autostradă in Germania. Amintirea gustului de atunci nu am putut-o reproduce, dar cheesecake-ul ăsta cu mac și un strop de vanilie se apropie destul de mult de perfectiunea din amintirea mea.  

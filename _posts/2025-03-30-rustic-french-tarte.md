@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: true
 image: "/assets/images/rustic_french_tarte_thumb.jpg"
 categories:
-  - Blog
+  - "Blog"
 ---
 
 sweet, crunchy, earthy........

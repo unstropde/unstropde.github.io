@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: false
 image: "/assets/images/pui_miere_lamaie_gatit_thumb.jpeg"
 categories:
-  - Blog
+  - "Blog"
 ---
 
 cum am avut prima revelație că dulcele și carnea sunt BFF (Best Food Friends): Marea Nordului, o zi când norii păreau că s-au certat cu soarele și noi, grupul de copii care ignoram totul în jur și ne îngropam unii pe alții în nisip.

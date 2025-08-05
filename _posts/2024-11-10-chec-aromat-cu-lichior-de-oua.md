@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: false
 image: "/assets/images/chec_aromat_lichior_oua_thumb.jpg"
 categories:
-  - Blog
+  - "Blog"
 ---
 
 toamnă târzie, frig, ceață, poftă de ceva dulce.
