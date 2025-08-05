@@ -112,8 +112,7 @@ category_archive:
   path: /category/
 jekyll-archives:
   enabled: all
-  layout:
-    category: archive-taxonomy
+  layout: category
   permalinks:
     category: "/category/:name/"
 
