@@ -3,7 +3,7 @@ layout: post
 title: "paine cu unt...si alte verdeturi"
 date: 2025-03-30T 20:46:10 +03:00
 description: "This is meta description"
-featured: false
+featured: true
 image: "assets/images/zupfbrot_thumb.jpg"
 categories: 
   - "Food"
