@@ -3,7 +3,7 @@ layout: post
 title: "paine cu pesto si mozzarella"
 date: 2025-03-30T 20:46:10 +03:00
 description: "This is meta description"
-featured: false
+featured: true
 image: "assets/images/masonary-post/paine_pesto_mozzarella_thumb.jpg"
 categories: 
   - "Food"

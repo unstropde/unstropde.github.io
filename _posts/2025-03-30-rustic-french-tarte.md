@@ -3,7 +3,7 @@ layout: post
 title: "rustic french tarte"
 date: 2025-03-30T 14:46:10 +03:00
 description: "This is meta description"
-featured: false
+featured: true
 image: "/assets/images/rustic_french_tarte_thumb.jpg"
 categories:
   - Blog
