@@ -5,7 +5,7 @@ date: 2024-10-25 14:46:10 +03:00
 description: "This is meta description"
 featured: false
 image: "/assets/images/chec_mere_thumb.jpg"
-categories:
+category:
   - "Food"
 ---
 

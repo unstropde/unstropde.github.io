@@ -3,6 +3,7 @@ layout: post
 title: "curry night"
 date: 2019-05-14 11:46:10 +03:00
 description: "This is meta description"
+featured: false
 image: "assets/images/masonary-post/curry_thumbs.jpg"
 categories: 
   - "Food"
