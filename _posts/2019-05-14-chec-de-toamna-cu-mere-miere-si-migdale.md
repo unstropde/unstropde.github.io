@@ -9,8 +9,6 @@ categories:
   - "ceva dulce"
 ---
 
-în cautarea unei prajituri de toamna cu mere in care totusi sa nu iti dai seama ca sunt mere:) am descoperit aceasta reteta pe care am facut-o de cel putin doua ori pe saptamana in ultimele 2 luni. Se prepara simplu si rapid, o reteta perfecta pentru zilele cand nu am prea mult timp la dispozitie, dar am "nevoie" de ceva dulce. Bun de servit langa o cafea tare sau un ceai fierbinte, checul cu mere, miere si migdale devine si mai special dupa ce sta cateva ore si aromele "se imprietenesc"
-
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="text-align: left;width: 40%;vertical-align: top;">Ingrediente</th>
@@ -30,16 +28,17 @@ categories:
         2 ouă<br><br>
         2 mere mari rase si stoarse de suc<br><br>
         60g ulei de măsline<br><br>
-        130g miere<br><br>
+        120g miere<br><br>
         80g iaurt grecesc<br><br>
+        2-3 linguri fulgi de migdale (pentru decor)
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
-        Preîncălzește cuptorul la 180 grade Celsius fără ventilatie.<br><br>
-        Unge o tavă de cozonac cu unt și presară aproximativ 2 linguri de migdale feliate.<br><br>
-        Într-un bol amestecă făina, migdalele măcinate, scorțișoara, cuișoarele, praful de copt, bicarbonatul și sarea.<br><br>
-        Curăță merele și dă-le pe răzătoarea medie. Stoarce tot sucul și amestecă-le cu ouăle, vanilia, uleiul de măsline, mierea și iaurtul grecesc. Adaugă treptat ingredientele uscate.<br><br>
-        Toarnă compoziția în tava tapetată cu migdale, presară o lingură de migdale feliate deasupra și pune la cuptor.<br><br>
-        Coace la 180 grade Celsius timp de 45-55 minute până când trece testul scobitoarei. Dacă începe să se rumenească prea tare, acoperă cu folie de aluminiu până când este coaptă.<br><br>
+        1. Preîncălzește cuptorul la 180°C (fără ventilație). Unge o tavă de chec cu unt și presară aproximativ 2 linguri de migdale feliate pe fundul formei.<br><br>
+        2. Într-un bol, amestecă făina, migdalele măcinate, praful de copt, bicarbonatul, sarea și condimentele (scorțișoară, nucșoară, cuișoare).<br><br>
+        3. Curăță merele, rade-le pe răzătoarea mare și stoarce sucul. Într-un bol separat, amestecă merele cu ouăle, vanilia, uleiul de măsline, mierea și iaurtul grecesc.<br><br>
+        4. Adaugă treptat ingredientele uscate peste cele umede, amestecând până obții un aluat omogen.<br><br>
+        5. Toarnă compoziția în tava pregătită, presară o lingură de migdale feliate deasupra și coace timp de 45-55 de minute. Dacă începe să se rumenească prea tare, acoperă cu folie de aluminiu.<br><br>
+        6. Lasă checul să se răcească în tavă 10-15 minute, apoi scoate-l pe un grătar și lasă-l să se răcească complet.<br><br>
     </td>
   </tr>
 </table>

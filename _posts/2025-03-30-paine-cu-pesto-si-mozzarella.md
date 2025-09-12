@@ -29,14 +29,13 @@ un "cozonac" altfel, aromat si pufos, bun de luat la picnic in parc.
         1 mozzarella<br><br>
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
-      1. Topește untul și incălzește laptele. <br><br>
-      2. Amestecă făina cu drojdia, sarea si mierea. Adaugă laptele calduț si amesteca 5 minute la robotul de bucatarie sau framanta cu mana. Adauga la final untul topit si mai framanta aluatul inca 5 minute. <br><br>
-      3. acopera vasul cu un servet de bucatarie curat si lasa-l la dospit aproximativ o ora. <br><br>
-      4. Preincălzește cuptorul la 200°C. <br><br>
-      3. Intinde aluatul sub forma de dreptunghi (40x30cm) si unge-l cu pesto. Adauga mozzarella rupta bucati si ruleaza-l. <br><br>
-      4. Taie aluatul rulat pe lungime, ast´fel incat la un capat sa mai fie legat. suceste cele doua parti si aseaza cozonacul in tava tapetata cu hartie de copt. <br><br>
-      5. acopera tava cu servetul de bucatarie si mai lasa aluatul inca 20 de minute la dospit in tava apoi pune-l la copt penbtru aprox. 30-35 de minute.<br><br>
-      6. Lasa cozonacul sa se raceasca putin in tava, apoi scoate-l din forma. <br><br>
+      1. Topește untul și încălzește laptele. Într-un bol mare, amestecă făina cu drojdia, sarea și mierea. Adaugă laptele călduț și frământă timp de 5 minute (manual sau cu robotul de bucătărie). La final, încorporează untul topit și mai frământă încă 5 minute. <br><br>
+      2. Acoperă bolul cu un șervet curat și lasă-l la dospit aproximativ o oră, într-un loc călduț. <br><br>
+      3. Întinde aluatul sub forma unui dreptunghi de aproximativ 40x30cm. Unge-l cu pesto și presară mozzarella ruptă bucăți. Rulează aluatul strâns. <br><br>
+      4. Taie ruloul pe lungime, lăsând un capăt netăiat. Răsucește cele două părți și așază-le într-o tavă tapetată cu hârtie de copt. <br><br>
+      3. Acoperă tava cu șervetul și lasă aluatul 20 de minute să se odihnească. <br><br>
+      4. Preîncălzește cuptorul la 200°C și coace pâinea timp de 30-35 de minute, până devine aurie și parfumată. <br><br>
+      5. Lasă pâinea să se răcească puțin în tavă, apoi scoate-o cu grijă și lasă-o să se răcească pe un grătar.<br><br>
     </td>
   </tr>
 </table>

@@ -34,9 +34,12 @@ toamnă târzie, frig, ceață, poftă de ceva dulce.
         120 g miere<br><br>
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
-        Unge o formă de chec/ Gugelhupf bine cu unt si tapeteaz-o cu făină.<br><br>
-        Amestecă făina cu praful de copt, condimentele si cele patru linguri de cacao.<br><br>
-        Amestecă uleiul cu lichiorul de ouă, mierea si ouăle si amestecă-le cu ingredientele uscate.<br><br>
+        1. Unge bine o formă de chec sau Gugelhupf cu unt și tapeteaz-o cu făină.<br><br>
+        2. Într-un bol mare, amestecă făina cu praful de copt, cacao, sare și condimentele (scorțișoară, nucșoară, cuișoare).<br><br>
+        3. Într-un alt bol, bate ouăle cu uleiul, lichiorul de ouă și mierea până se omogenizează.<br><br>
+        4. Adaugă ingredientele lichide peste cele uscate și amestecă bine până obții un aluat omogen. Încorporează stafidele și nucile.<br><br>
+        5. Toarnă compoziția în forma pregătită și coace în cuptorul preîncălzit la 180°C timp de aproximativ 45-50 de minute, sau până trece testul cu scobitoarea.<br><br>
+        6. Lasă checul să se răcească în formă 10-15 minute, apoi scoate-l pe un grătar și lasă-l să se răcească complet.<br><br>
     </td>
   </tr>
 </table>

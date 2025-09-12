@@ -39,10 +39,11 @@ Rețeta asta e simplă, dar cu substanță. Dacă nu iți place feniculul, lasă
       sare și piper<br><br>
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
-      Spală carnea de pui și condimenteaz-o generos cu sare și piper.<br><br>
-      Taie legumele în bucăti aproximativ egale.<br><br>
-      Pune legumele și carnea în tavă adaugă condimentele și pune-le în cuptorul preîncălzit la 200 grade pentru o oră.<br><br>
-      
+      1. Spală pulpele de pui și condimentează-le generos cu sare și piper.<br><br>
+      2. Taie cartofii, cartoful dulce, morcovii și ceapa în bucăți aproximativ egale. Zdrobește usturoiul.<br><br>
+      3. Marinada: Într-un bol mic, amestecă uleiul de măsline cu zeama de lămâie, mierea, usturoiul zdrobit, semințele de fenicul și chimen, paprika dulce și afumată. Adaugă rozmarinul și salvia.<br><br>
+      4. Pune legumele și carnea într-o tavă mare. Toarnă marinada peste ele și amestecă ușor pentru a distribui aromele.<br><br>
+      5. Dă tava la cuptorul preîncălzit la 200°C pentru aproximativ o oră. La jumătatea timpului, întoarce pulpele și amestecă legumele pentru coacere uniformă.<br><br>    
     </td>
   </tr>
 </table>
