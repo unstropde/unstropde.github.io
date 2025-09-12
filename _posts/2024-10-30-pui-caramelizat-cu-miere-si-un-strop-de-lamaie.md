@@ -9,10 +9,6 @@ categories:
   - "Blog"
 ---
 
-cum am avut prima revelație că dulcele și carnea sunt BFF (Best Food Friends): Marea Nordului, o zi când norii păreau că s-au certat cu soarele și noi, grupul de copii care ignoram totul în jur și ne îngropam unii pe alții în nisip.
-Apoi…MOMENTUL: descoperirea chiftelelor inmuiate in gem. Boom! Explozie de gust. De atunci am devenit fan al combinațiilor dulce-sărat.
-Rețeta asta e simplă, dar cu substanță. Dacă nu iți place feniculul, lasă-l deoparte, dar nu renunța la chimen!
-
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="text-align: left;width: 40%;vertical-align: top;">Ingrediente</th>

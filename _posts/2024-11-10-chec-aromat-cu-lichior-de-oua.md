@@ -9,7 +9,6 @@ categories:
   - "Blog"
 ---
 
-toamnă târzie, frig, ceață, poftă de ceva dulce.
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="text-align: left;width: 40%;vertical-align: top;">Ingrediente</th>

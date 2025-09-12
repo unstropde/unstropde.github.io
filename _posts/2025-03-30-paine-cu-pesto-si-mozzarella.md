@@ -9,8 +9,6 @@ categories:
   - "Food"
 ---
 
-un "cozonac" altfel, aromat si pufos, bun de luat la picnic in parc.
-
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="text-align: left;width: 40%;vertical-align: top;">Ingrediente</th>
