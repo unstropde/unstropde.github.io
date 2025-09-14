@@ -32,7 +32,7 @@ categories:
         2 căței usturoi<br><br>
         3 linguri zeamă de lămâie<br><br>
         70g iaurt grecesc/ smântână/ maioneză<br><br>
-        1-2 linguri capere
+        1-2 linguri capere<br><br>
         Sare și piper după gust<br><br>
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
@@ -41,7 +41,7 @@ categories:
       3. Întinde cartofii pe o tavă mare căptușită cu hârtie de copt sau în air fryer asigurându-te că nu se suprapun. Coace 25-30 de minute, întoarce-i o dată la jumătatea timpului, până devin aurii și crocanți la exterior.<br><br>
       Dressing-ul Green Goddess <br><br>
       4. În timp ce cartofii se coc, pregătește dressing-ul. Într-un blender sau robot de bucătărie, pune avocado, usturoiul, zeama de lămâie, adaugă iaurtul/ smântâna, pătrunjelul, mărarul și ceapa verde. Mixează până când ierburile sunt mărunțite și ai un sos fin.<br><br>
-      6. Gustă și ajmai adaugă sare, piper și mai multă zeamă de lămâie dacă este necesar. Dressing-ul trebuie să aibă un gust vibrant și fresh.<br><br>
+      6. Gustă și adaugă sare, piper și mai multă zeamă de lămâie dacă este necesar. Dressing-ul trebuie să aibă un gust vibrant și fresh.<br><br>
       7. Fierbe cartofii în coajă, scurge-i și lasă-i să se răcească puțin. Preîncălzește cuptorul la 200°C. <br><br>
       8. Pune cartofii pe o tavă cu hârtie de copt, aplatizează-i ușor cu o cană, stropește-i cu ulei de măsline și condimentează cu sare, piper și paprika. Coace-i 25-30 de minute până se rumenesc.<br><br>
       9. Când cartofii sunt gata, lasă-i să se răcească puțin. Într-un bol mare, amestecă-i cu verdețurile si caperele. Adaugă dressing-ul și amestecă ușor.<br><br>
