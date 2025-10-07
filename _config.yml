@@ -56,7 +56,7 @@ contact-form: mail@unstropde.com
 
 # Social links
 social:
-  - { icon: "ti-Instagram", link: "#" }
+  - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-github", link: "#" }
 
 #-------------------------------
