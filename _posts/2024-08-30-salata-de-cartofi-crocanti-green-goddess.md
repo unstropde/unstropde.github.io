@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "salata de cartofi crocanți si un strop de sos verde Green Goddess…"
-date: 2024-09-14T 20:46:10 +03:00
+date: 2025-09-14T 20:46:10 +03:00
 description: "This is meta description"
 featured: false
 image: "assets/images/Salata_cartofi_green_goddess_temp.jpeg"

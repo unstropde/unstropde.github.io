@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tartă rustică cu roșii și parmezan – simplitate..."
-date: 2019-04-14 14:46:10 +03:00
+date: 2025-07-14 14:46:10 +03:00
 description: "This is meta description"
 featured: true
 image: "assets/images/featured-post/tomatoes_galette_thumb.jpg"
