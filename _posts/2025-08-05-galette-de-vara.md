@@ -45,7 +45,3 @@ categories:
   </tr>
 </table>
 
-
-The Verdict
-Twenty minutes later, you'll have something that looks like it came from a fancy French café. The tomatoes will be sweet and jammy, the crust will be flaky, and you'll feel like you've accomplished something meaningful.
-Bon appétit!
