@@ -7,7 +7,7 @@ image: /assets/images/author.jpg
 <h3 class="font-weight-light">Hei, servus! Eu sunt Irina <span class="font-weight-bold">{{Irina}}</span></h3>
 
 
-și îmi plac mai mult oalele frumoase și grele decât pantofii cu toc.
+și îmi plac mai mult oalele colorate și grele decât pantofii cu toc.
 
 Îmi place mâncarea bună, simplă și proaspătă. Ciocolata neagră 99% cacao e preferata mea (da, știu, sunt puțin extremă), iar cafeaua o beau strategic: cappuccino doar când mi-e foame, în rest prefer un espresso moale, de preferință cu boabe prăjite bine.
 
