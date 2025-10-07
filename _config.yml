@@ -49,19 +49,14 @@ author:
 # Contact Info
 contact:
   email: mail@unstropde.com
-  phone: 
-  address:
-    city: 
-    street: 
+
 
 # Contact Form
 contact-form: mail@unstropde.com
 
 # Social links
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-twitter-alt", link: "#" }
-  - { icon: "ti-linkedin", link: "#" }
+  - { icon: "ti-Instagram", link: "#" }
   - { icon: "ti-github", link: "#" }
 
 #-------------------------------
