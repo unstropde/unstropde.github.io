@@ -34,14 +34,13 @@ categories:
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
       1. Încălzește laptele cu un praf de zahăr până devine călduț (aproximativ temperatura corpului). Atenție: laptele nu trebuie să fie prea fierbinte, altfel va distruge drojdia! Adaugă drojdia în laptele călduț și amestecă. Lasă să se activeze aproximativ 5 minute, până devine spumoasă.<br><br>
-      3. Transferă amestecul de lapte în bolul mixerului cu cârlig pentru aluat. Adaugă zahărul, făina, ouăle, vanilia și coaja rasă de lămâie. Amestecă la viteza mică până când aluatul începe să se formeze, aproximativ 1 minut.<br><br>
-      5. Adaugă untul și sarea și continuă să amesteci la viteza mică până când aluatul devine neted și lucios, 15-20 minute.<br><br>
-      6. Scoate aluatul pe un blat ușor presărat cu făină și frământă doar de câteva ori pentru a-l omogeniza.<br><br>
-      7. Unge un bol mare cu unt, pune aluatul înăuntru și acoperă cu un prosop umed. Lasă aluatul să crească într-un loc cald timp de 1 oră și jumătate, până își dublează volumul.<br><br>
+      2. Transferă amestecul de lapte în bolul mixerului cu cârlig pentru aluat. Adaugă zahărul, făina, ouăle, vanilia și coaja rasă de lămâie. Amestecă la viteza mică până când aluatul începe să se formeze, aproximativ 1 minut.<br><br>
+      3. Adaugă untul și sarea și continuă să amesteci la viteza mică până când aluatul devine neted și lucios, 15-20 minute.<br><br>
+      4. Scoate aluatul pe un blat ușor presărat cu făină și frământă doar de câteva ori pentru a-l omogeniza.<br><br>
+      5. Unge un bol mare cu unt, pune aluatul înăuntru și acoperă cu un prosop umed. Lasă aluatul să crească într-un loc cald timp de 1 oră și jumătate, până își dublează volumul.<br><br>
       Prepararea cremei de mac<br><br>
-      8. Într-o crăticioară, amestecă macul măcinat cu laptele și zahărul pudră până obții o masă omogenă și cremoasă. Adaugă untul topit în amestecul de mac.<br><br>
-      9. Încălzește masa încet în crăticioară la foc mic. Lasă să fiarbă ușor aproximativ 3 minute, amestecând din când în când.<br><br>
-      10. Ia crăticioara de pe foc și lasă umplutura să se răcească și să se umfle timp de minimum 15 minute înainte de a o folosi. În acest timp, macul va absorbi lichidul și umplutura va căpăta consistența potrivită pentru întindere.<br><br>
+      1. Într-o crăticioară, amestecă macul măcinat cu laptele și zahărul pudră până obții o masă omogenă și cremoasă. Adaugă untul topit în amestecul de mac. Încălzește crema de mac încet în crăticioară la foc mic. Lasă să fiarbă ușor aproximativ 3 minute, amestecând din când în când.<br><br>
+      2. Ia crăticioara de pe foc și lasă umplutura să se răcească și să se umfle timp de minimum 15 minute înainte de a o folosi. În acest timp, macul va absorbi lichidul și umplutura va căpăta consistența potrivită pentru întindere.<br><br>
       Asamblarea:
       1. Unge două forme de cozonac de 23 × 13 cm cu unt și tapetează cu hârtie de copt.<br><br>
       2. Scoate aluatul dospit pe un blat curat de lucru. Împarte aluatul în două părți egale și acoperă a doua jumătate cu un prosop curat.<br><br>
@@ -54,7 +53,7 @@ categories:
       9. Repetă procesul cu a doua jumătate de aluat și umplutură.<br><br>
       10. Preîncălzește cuptorul la 180°C.<br><br>
       11. Așează formele de cozonac pe o tavă de cuptor și coace timp de 40-50 minute, până când babkele devin aurii.<br><br>
-      12. Dacă se rumenesc prea repede, acoperă-le cu folie de aluminiu.<br><br>
+      12. Dacă se rumeneste prea repede, acoperă tava cu folie de aluminiu.<br><br>
     </td>
   </tr>
 </table>
