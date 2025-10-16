@@ -33,9 +33,9 @@ categories:
       Lasă aluatul să dospească la temperatura camerei timp de 4–6 ore, în acest timp fă 3–4 seturi de întinderi și împăturiri.<br><br>
       Pune aluatul în frigider peste noapte.<br><br>
       Ziua 2<br><br>
-      Scoate aluatul din frigider și pune-l într-o ceramică, unsă cu puțin ulei de măsline. Nivelează-l ușor cu degetele umede, fără să îl presezi prea tare.<br><br>
+      Scoate aluatul din frigider și pune-l într-o tavă ceramică, unsă cu ulei de măsline. Nivelează-l ușor cu degetele umede, fără să îl presezi prea tare.<br><br>
       Lasă aluatul să crească la temperatura camerei cel puțin 1 oră, acoperit cu un prosop curat.<br><br>
-      Între timp, preîncălzește cuptorul la 250 °C (căldură sus-jos, fără ventilație) și pune un vas cu apa înăuntru.<br><br>
+      Între timp, preîncălzește cuptorul la 250 °C (căldură sus-jos, fără ventilație) și pune un vas cu apă înăuntru.<br><br>
       După ce aluatul a crescut, stropește-l bine cu ulei de măsline și apasă ușor cu degetele ca să formezi gropițele specifice focacciei.<br><br>
       Presară deasupra:<br><br>
       * sare mare<br><br>
@@ -43,9 +43,9 @@ categories:
       * măsline (feliate sau întregi, după preferință)<br><br>
       * roșii cherry<br><br>
       Redu temperatura cuptorului la 230 °C și coace focaccia timp de 20 de minute. Scoate vasul cu apa din cuptor și mai coace focaccia 20 de minute până când este aurie și crocantă la suprafață.<br><br>
+      Dacă focaccia nu se desprinde din tavă, o puteți acoperi timp de aproximativ 30 de minute cu un prosop din bumbac, cât timp este încă fierbinte. Condensul ajută la desprinderea focacciei din tavă. Apoi, scoate focaccia pe un grătar pentru răcire, astfel încât umiditatea să se poată evapora din nou.<br><br>
     </td>
   </tr>
 </table>
 
-![]({{site.baseurl}}/assets/images/Focaccia_crud_thumb.jpeg)
-![]({{site.baseurl}}/assets/images/focaccia_masa_thumb.jpeg)
+![]({{site.baseurl}}/assets/images/Focaccia_crud_thumb.jpeg)![]({{site.baseurl}}/assets/images/focaccia_masa_thumb.jpeg)
