@@ -43,7 +43,7 @@ categories:
       * măsline (feliate sau întregi, după preferință)<br><br>
       * roșii cherry<br><br>
       Redu temperatura cuptorului la 230 °C și coace focaccia timp de 20 de minute. Scoate vasul cu apa din cuptor și mai coace focaccia 20 de minute până când este aurie și crocantă la suprafață.<br><br>
-      Dacă focaccia nu se desprinde din tavă, o puteți acoperi timp de aproximativ 30 de minute cu un prosop din bumbac, cât timp este încă fierbinte. Condensul ajută la desprinderea focacciei din tavă. Apoi, scoate focaccia pe un grătar pentru răcire, astfel încât umiditatea să se poată evapora din nou.<br><br>
+      Dacă focaccia nu se desprinde din tavă, o poți acoperi timp de aproximativ 30 de minute cu un prosop din bumbac, cât timp este încă fierbinte. Condensul ajută la desprinderea focacciei din tavă. Apoi, scoate focaccia pe un grătar pentru răcire, astfel încât umiditatea să se poată evapora din nou.<br><br>
     </td>
   </tr>
 </table>
