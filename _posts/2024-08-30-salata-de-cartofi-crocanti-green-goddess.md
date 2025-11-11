@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: false
 image: "assets/images/Salata_cartofi_green_goddess_temp.jpeg"
 categories: 
-  - "Food"
+  - "salata"
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

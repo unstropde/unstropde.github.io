@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: false
 image: "/assets/images/pui_miere_lamaie_gatit_thumb.jpeg"
 categories:
-  - "Blog"
+  - "fel principal"
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

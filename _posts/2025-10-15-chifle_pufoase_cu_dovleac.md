@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: true
 image: "assets/images/chifle_dovleac_thumb.jpeg"
 categories: 
-  - "Food"
+  - "pâine"
 ---
 
 

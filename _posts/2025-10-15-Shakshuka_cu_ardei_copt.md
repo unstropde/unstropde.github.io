@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: true
 image: "assets/images/Schakschuka_thumb.jpeg"
 categories: 
-  - "Food"
+  - "mic dejun"
 ---
 
 

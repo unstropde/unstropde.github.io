@@ -4,9 +4,9 @@ title: "rulouri de vită cu prosciutto, pesto și sos de vin roșu"
 date: 2025-08-06 14:46:10 +03:00
 description: "This is meta description"
 featured: true
-image: "assets/images/featured-post/rulada_thumb.jpeg"
+image: "assets/images/rulada_thumb.jpeg"
 categories: 
-  - "ceva dulce"
+  - "fel principal"
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

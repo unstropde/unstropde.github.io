@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: true
 image: "assets/images/zupfbrot_thumb.jpg"
 categories: 
-  - "Food"
+  - "pâine"
 ---
 
 

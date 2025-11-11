@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: true
 image: "assets/images/focaccia_coapta_creuset_thumb.jpeg"
 categories: 
-  - "Food"
+  - "pâine"
 ---
 
 

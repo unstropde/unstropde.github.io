@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: true
 image: "assets/images/masonary-post/paine_pesto_mozzarella_thumb.jpg"
 categories: 
-  - "Food"
+  - "pâine"
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

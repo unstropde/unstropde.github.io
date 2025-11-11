@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: true
 image: "assets/images/Babka_copt_thumb.jpeg"
 categories: 
-  - "Food"
+  - "ceva dulce"
 ---
 
 

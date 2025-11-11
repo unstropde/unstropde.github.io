@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: false
 image: "/assets/images/IMG_2239.jpg"
 categories:
-  - "Blog"
+  - "ceva dulce"
 ---
 
 <table style="width: 100%; border-collapse: collapse;">
