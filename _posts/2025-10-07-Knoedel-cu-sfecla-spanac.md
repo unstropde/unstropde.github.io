@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: true
 image: "assets/images/Knoedel_crud_thumb.jpeg"
 categories: 
-  - "ceva dulce"
+  - "fel principal"
 ---
 
 
