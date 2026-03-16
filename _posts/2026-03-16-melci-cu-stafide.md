@@ -11,8 +11,8 @@ categories:
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="text-align: left;width: 40%;vertical-align: top;">Ingredients</th>
-    <th style="text-align: left;width: 60%;vertical-align: top;">How to</th>
+    <th style="text-align: left;width: 40%;vertical-align: top;">Ingrediente</th>
+    <th style="text-align: left;width: 60%;vertical-align: top;">Mod de preparare</th>
   </tr>
   <tr>
     <td style="text-align: left;width: 40%;vertical-align: top;">
@@ -25,13 +25,13 @@ categories:
       1 linguriță praf cardamon<br><br>
       100g unt (moale, la temperatura camerei)
       4g sare<br><br>
-      Crema de budincă
-      500ml lapte
-      1 plic de praf pentru budincă de vanilie
-      2 linguri zahăr brun
-      2 linguri unt
+      Crema de budincă<br><br>
+      500ml lapte<br><br>
+      1 plic de praf pentru budincă de vanilie<br><br>
+      2 linguri zahăr brun<br><br>
+      2 linguri unt<br><br>
 
-      100g stafide
+      100g stafide<br><br>
 
     </td>
     <td style="text-align: left;width: 60%;vertical-align: top;">
