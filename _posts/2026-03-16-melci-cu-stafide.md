@@ -3,8 +3,8 @@ layout: post
 title: "melci cu cardamon, stafide si un strop de budinca "
 date: 2025-08-06 14:46:10 +03:00
 description: "This is meta description"
-featured: false
-image: "assets/images/featured-post/peanutbutter_banana_snickers_thumb.jpeg"
+featured: true
+image: "assets/images/featured-post/melci_stafide_thumb.jpeg"
 categories: 
   - "ceva dulce"
 ---
