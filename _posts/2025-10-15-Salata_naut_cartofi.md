@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Salată de năut și cartofi"
-date: 2025-10-15T 20:46:10 +03:00
+date: 2026-07-29T 20:46:10 +03:00
 description: "This is meta description"
 featured: true
 image: "assets/images/Salata_naut_cartofi_thumb.jpeg"
