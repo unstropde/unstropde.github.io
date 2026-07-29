@@ -41,7 +41,7 @@ categories:
       4. Unge un bol mare cu unt, pune aluatul înăuntru și acoperă cu un prosop umed. Lasă aluatul să crească într-un loc cald timp de 1 oră și jumătate, până își dublează volumul.<br><br>
       5. Spre sfârșitul timpului de dospire pentru umplutură se prepară o budincă de vanilie conform instrucțiunilor de pe ambalaj. Se lasă să se răcească puțin și se adaugă cele două linguri de unt. Acoperă cu folie alimentară.<br><br>
       6. Întinde aluatul dospit in forma de dreptunghi mare de 30 × 45 cm.<br><br>
-      7. Unge aluatul cu budinca răcită si presara stafidele. Rulează într-un sul lung, ca la ștrudel. Cu un cuțit mare și ascuțit, taie cu grijă aproximativ 12 rulouri în formă de melc.<br><br>
+      7. Întinde budinca răcită peste aluat și presară stafidele. Rulează într-un sul lung, ca la ștrudel. Cu un cuțit mare și ascuțit, taie cu grijă aproximativ 12 rulouri în formă de melc.<br><br>
       8. Așază melcii în tavă, acoperă-i din nou și lasă-i la dospit într-un loc cald timp de 20 de minute. Preîncălzește cuptorul la 180°C, cu căldură sus și jos.<br><br>
       9. Coace melcii aproximativ 20–25 de minute, până devin aurii. Lasă-i să se răcească și, după preferință, unge-i cu puțină glazură de zahăr sau gem de caise.<br><br>
     </td>
