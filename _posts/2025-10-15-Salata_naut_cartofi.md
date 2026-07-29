@@ -6,7 +6,7 @@ description: "This is meta description"
 featured: true
 image: "assets/images/Salata_naut_cartofi_thumb.jpeg"
 categories: 
-  - "salate"
+  - "salata"
 ---
 
 
