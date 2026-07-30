@@ -35,7 +35,7 @@ categories:
     <td style="text-align: left;width: 60%;vertical-align: top;">
       Pregătește mai întâi salsa de castraveți: într-un bol amestecă castravetele murat tocat mărunt cu castravetele crud, ceapa, ardeiul iute sau jalapeños, mărarul, coriandrul sau pătrunjelul, coaja rasă de lămâie și uleiul de măsline. Amestecă bine și lasă aromele să se îmbine.<br><br>
       Într-un bol încăpător, combină năutul cu cartofii fierți, tăiați în cuburi potrivite. Adaugă iaurtul grecesc, muștarul și mierea, apoi asezonează cu sare și piper, după gust. Amestecă ușor până când toate ingredientele sunt bine acoperite de sosul cremos.<br><br>
-      Pentru servire, așază salata de năut și cartofi pe un platou întins sau într-un bol de servire și distribuie deasupra salsa proaspătă de castraveți.<br><br>
+      Pentru servire, așază salata de năut și cartofi pe un platou întins și distribuie deasupra salsa proaspătă de castraveți.<br><br>
       </td>
   </tr>
 </table>
