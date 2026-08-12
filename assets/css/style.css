@@ -338,6 +338,21 @@ a:hover, a.text-dark:hover {
   background: #fdf6ec !important;
 }
 
+footer.bg-secondary {
+  background: #c1592b !important;
+  color: #fdf6ec;
+}
+
+footer.bg-secondary h6,
+footer.bg-secondary .text-dark,
+footer.bg-secondary a {
+  color: #fdf6ec !important;
+}
+
+footer.bg-secondary a:hover {
+  color: #3a2620 !important;
+}
+
 .text-primary {
   color: #c1592b !important;
 }
