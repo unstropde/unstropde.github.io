@@ -21,7 +21,7 @@ body {
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
-  color: #585757;
+  color: #6b5b4d;
 }
 
 p, .paragraph {
@@ -32,7 +32,7 @@ p, .paragraph {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #000000;
+  color: #3a2620;
   font-family: "hanskendrick";
   font-weight: 600;
   line-height: 1.2;
@@ -98,17 +98,17 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #fad02c;
-  color: #1a1a1a;
+  background: #e8a33d;
+  color: #3a2620;
   border: 0;
 }
 
 .btn-primary:active {
-  background: #fad02c !important;
+  background: #e8a33d !important;
 }
 
 .btn-primary:hover {
-  background: #ffde59;
+  background: #f0b968;
 }
 
 .btn-outline-light {
@@ -118,34 +118,34 @@ h6, .h6 {
 
 .btn-outline-light:active {
   background: #fff !important;
-  color: #000000;
+  color: #3a2620;
   border-color: #fff;
 }
 
 .btn-outline-light:hover {
   background: #fff !important;
-  color: #000000;
+  color: #3a2620;
   border-color: #fff;
 }
 
 .btn-transparent {
-  color: #b8860b;
+  color: #c1592b;
   border: 0;
 }
 
 body {
-  background-color: #fff;
+  background-color: #fdf6ec;
   overflow-x: hidden;
 }
 
 ::-moz-selection {
-  background: #ffde59;
-  color: #1a1a1a;
+  background: #f0b968;
+  color: #3a2620;
 }
 
 ::selection {
-  background: #ffde59;
-  color: #1a1a1a;
+  background: #f0b968;
+  color: #3a2620;
 }
 
 /* preloader */
@@ -155,7 +155,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #fff;
+  background-color: #fdf6ec;
   z-index: 999;
   display: flex;
   align-items: center;
@@ -178,7 +178,7 @@ body {
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #fad02c;
+  background: #e8a33d;
   border-radius: 50%;
   -webkit-transform: translateX(0);
           transform: translateX(0);
@@ -201,7 +201,7 @@ body {
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #fad02c;
+  background: #e8a33d;
   border-radius: 50%;
 }
 
@@ -264,7 +264,7 @@ select:focus {
 }
 
 a:hover, a.text-dark:hover {
-  color: #b8860b !important;
+  color: #c1592b !important;
 }
 
 .slick-slide {
@@ -299,7 +299,7 @@ a:hover, a.text-dark:hover {
 }
 
 .border-primary {
-  border-color: #ababab !important;
+  border-color: #b0a08e !important;
 }
 
 .content img {
@@ -318,7 +318,7 @@ a:hover, a.text-dark:hover {
   width: 100%;
   top: 0;
   left: 0;
-  background: #000;
+  background: #2b1b14;
   opacity: .5;
 }
 
@@ -331,23 +331,23 @@ a:hover, a.text-dark:hover {
 }
 
 .bg-primary {
-  background: #fad02c !important;
+  background: #e8a33d !important;
 }
 
 .bg-secondary {
-  background: #fff6d9 !important;
+  background: #fbe3dd !important;
 }
 
 .text-primary {
-  color: #b8860b !important;
+  color: #c1592b !important;
 }
 
 .text-color {
-  color: #585757;
+  color: #6b5b4d;
 }
 
 .text-dark {
-  color: #000000 !important;
+  color: #3a2620 !important;
 }
 
 .font-secondary {
@@ -404,14 +404,14 @@ a:hover, a.text-dark:hover {
 
 .form-control {
   border: 0;
-  border-bottom: 1px solid #ababab;
+  border-bottom: 1px solid #b0a08e;
   border-radius: 0;
 }
 
 .form-control:focus {
   outline: 0;
   box-shadow: none;
-  border-color: #b8860b;
+  border-color: #c1592b;
 }
 
 textarea.form-control {
@@ -430,7 +430,7 @@ textarea.form-control {
   right: 0;
   transition: all .4s ease-in-out;
   padding: 10px 40px;
-  background-color: #fff;
+  background-color: #fdf6ec;
 }
 
 @media (max-width: 575px) {
@@ -483,7 +483,7 @@ textarea.form-control {
   opacity: 0;
   -webkit-transform: translateY(-20px);
           transform: translateY(-20px);
-  background: #fff;
+  background: #fdf6ec;
 }
 
 @media (max-width: 991px) {
@@ -509,8 +509,8 @@ textarea.form-control {
 }
 
 .navbar .dropdown-item:active {
-  color: #1a1a1a;
-  background-color: #fad02c;
+  color: #3a2620;
+  background-color: #e8a33d;
 }
 
 .search-icon {
@@ -556,7 +556,7 @@ textarea.form-control {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   bottom: 0px;
-  background: #ababab;
+  background: #b0a08e;
 }
 
 .title-border-lg {
@@ -570,7 +570,7 @@ textarea.form-control {
   width: 300px;
   left: -45px;
   bottom: -50px;
-  background: #ababab;
+  background: #b0a08e;
 }
 
 @media (max-width: 575px) {
@@ -588,7 +588,7 @@ textarea.form-control {
   font-family: "hanskendrick";
   font-size: 30px;
   border: 0;
-  color: #585757;
+  color: #6b5b4d;
 }
 
 @media (max-width: 767px) {
@@ -598,7 +598,7 @@ textarea.form-control {
 }
 
 .pagination .page-item .page-link:hover {
-  color: #000000;
+  color: #3a2620;
   background-color: transparent;
 }
 
@@ -607,7 +607,7 @@ textarea.form-control {
 }
 
 .pagination .page-item.active .page-link {
-  color: #000000;
+  color: #3a2620;
   text-decoration: underline;
   background: transparent;
 }
@@ -647,7 +647,7 @@ textarea.form-control {
 }
 
 .instagram-post ul a:hover {
-  color: #b8860b !important;
+  color: #c1592b !important;
 }
 
 .instagram-post:hover::before {
@@ -663,7 +663,7 @@ textarea.form-control {
 /* homepage 2 */
 .hero-section {
   padding: 70px 0 0;
-  background-image: linear-gradient(#fff 45%, #fff 45%);
+  background-image: linear-gradient(#fdf6ec 45%, #fdf6ec 45%);
 }
 
 .dividers {
@@ -678,14 +678,14 @@ textarea.form-control {
 }
 
 .dividers .divider {
-  border-right: 1px solid #edeef0;
+  border-right: 1px solid #f0e6da;
   flex-basis: 50%;
   height: 100vh;
   opacity: .6;
 }
 
 .dividers .divider:first-child {
-  border-left: 1px solid #edeef0;
+  border-left: 1px solid #f0e6da;
 }
 
 .article-full-width {
@@ -802,7 +802,7 @@ textarea.form-control {
 
 blockquote {
   font-style: italic;
-  color: #000000;
+  color: #3a2620;
   background: #fff;
   padding: 20px;
   font-weight: 600;
@@ -818,7 +818,7 @@ blockquote {
 
 .widget:not(:last-child) {
   margin-bottom: 30px;
-  border-bottom: 1px solid #f4f4f4;
+  border-bottom: 1px solid #f2e8da;
 }
 
 .search-box {
@@ -829,7 +829,7 @@ blockquote {
   position: absolute;
   left: 0;
   top: 25px;
-  color: #767575;
+  color: #8a7a6c;
 }
 
 .post-thumb-sm {
@@ -840,13 +840,13 @@ blockquote {
 
 .tag-list li a {
   display: block;
-  background: #f4f4f4;
+  background: #f2e8da;
   padding: 2px 5px;
-  color: #000000;
+  color: #3a2620;
 }
 
 .tag-list li a:hover {
-  color: #b8860b;
+  color: #c1592b;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
