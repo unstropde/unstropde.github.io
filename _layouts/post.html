@@ -17,7 +17,7 @@ layout: default
 <section>
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8">
+			<div class="col-lg-12">
 				<ul class="list-inline d-flex justify-content-between py-3">
 					<li class="list-inline-item"><i class="ti-user mr-2"></i>Post by {{site.author.name}}</li>
 					<li class="list-inline-item"><i class="ti-calendar mr-2"></i>{{page.date | date: '%b %d, %Y'}}</li>
@@ -38,7 +38,6 @@ layout: default
 				{% include disqus-comments.html %}
 				{% endif %}
 			</div>
-			{% include sidebar.html %}
 		</div>
 	</div>
 </section>
