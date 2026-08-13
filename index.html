@@ -1,6 +1,10 @@
 ---
 layout: default
+lang: ro
 ---
+
+{% assign cur_lang = page.lang | default: site.lang | default: "ro" %}
+{% assign t = site.data.translations[cur_lang] %}
 
 {% if site.layout_home_page == true %}
 {% if site.featured-post-slider == true %}
@@ -9,7 +13,7 @@ layout: default
   <div class="container-fluid p-sm-0">
     <div class="row featured-post-slider">
       {% for post in site.posts %}
-      {% if post.featured == true %}
+      {% if post.featured == true and post.lang == cur_lang %}
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
         <article class="card bg-dark text-center text-white border-0 rounded-0">
           <img class="card-img rounded-0 img-fluid w-100" src="{{post.image | relative_url}}" alt="{{post.title}}">
@@ -24,7 +28,7 @@ layout: default
               <a class="d-block mb-3 text-white text-uppercase" href="{{ 'category/' | relative_url }}{{ category | slugify }}">{{ category }}</a>
               {% endfor %}
               <h4 class="card-title mb-4"><a class="text-white" href="{{ post.url | relative_url }}">{{post.title}}</a></h4>
-              <a class="btn btn-outline-light" href="{{ post.url | relative_url }}">read more</a>
+              <a class="btn btn-outline-light" href="{{ post.url | relative_url }}">{{ t.read_more }}</a>
             </div>
           </div>
         </article>
@@ -43,6 +47,7 @@ layout: default
     <div class="row masonry-container">
 			{% if site.posts.size > 0 %}
 			{% for post in paginator.posts %}
+			{% if post.lang == cur_lang %}
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">
 					<img class="img-fluid mb-4" src="{{post.image | relative_url}}" alt="{{post.title}}">
@@ -56,9 +61,10 @@ layout: default
           {% endfor %}
           <h4 class="title-border"><a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h4>
           <p>{{ post.content | strip_html | truncatewords: 35 }}</p>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-transparent">read more</a>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-transparent">{{ t.read_more }}</a>
         </article>
       </div>
+			{% endif %}
 			{% endfor %}
 			{% endif %}
     </div>
@@ -108,6 +114,7 @@ layout: default
     <div class="row">
       {% if site.posts.size > 0 %}
       {% for post in paginator.posts %}
+      {% if post.lang == cur_lang %}
       {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
       {% if thecycle == 'odd' %}
         {% assign class = '' %}
@@ -126,10 +133,11 @@ layout: default
             </ul>
             <h4 class="mb-4"><a href="{{ post.url | prepend: site.baseurl }}" class="text-dark">{{post.title}}</a></h4>
             <p class="mb-0 post-summary">{{ post.content | strip_html | truncatewords: 35 }}</p>
-            <a class="btn btn-transparent mb-4" href="{{ post.url | prepend: site.baseurl }}">Continue...</a>
+            <a class="btn btn-transparent mb-4" href="{{ post.url | prepend: site.baseurl }}">{{ t.continue }}</a>
           </div>
         </article>
       </div>
+      {% endif %}
       {% endfor %}
 			{% endif %}
     </div>

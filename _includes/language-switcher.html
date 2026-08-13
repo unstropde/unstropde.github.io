@@ -1,0 +1,42 @@
+{% assign cur_lang = page.lang | default: site.lang | default: "ro" %}
+{% assign other_url = nil %}
+{% if page.translation_id %}
+  {% assign target_lang = "de" %}
+  {% if cur_lang == "de" %}{% assign target_lang = "ro" %}{% endif %}
+  {% for p in site.posts %}
+    {% if p.translation_id == page.translation_id and p.lang == target_lang %}
+      {% assign other_url = p.url %}
+    {% endif %}
+  {% endfor %}
+  {% if other_url == nil %}
+    {% for pg in site.pages %}
+      {% if pg.translation_id == page.translation_id and pg.lang == target_lang %}
+        {% assign other_url = pg.url %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% elsif cur_lang == "ro" %}
+  {% assign other_url = "/de/" %}
+{% else %}
+  {% assign other_url = "/" %}
+{% endif %}
+
+<div class="lang-switcher">
+  {% if cur_lang == "ro" %}
+  <span class="lang-current">RO</span>
+  <span class="lang-sep">/</span>
+  {% if other_url %}
+  <a href="{{ other_url | relative_url }}" class="lang-link">DE</a>
+  {% else %}
+  <span class="lang-disabled" title="{{ site.data.translations.ro.not_available }}">DE</span>
+  {% endif %}
+  {% else %}
+  {% if other_url %}
+  <a href="{{ other_url | relative_url }}" class="lang-link">RO</a>
+  {% else %}
+  <span class="lang-disabled" title="{{ site.data.translations.de.not_available }}">RO</span>
+  {% endif %}
+  <span class="lang-sep">/</span>
+  <span class="lang-current">DE</span>
+  {% endif %}
+</div>

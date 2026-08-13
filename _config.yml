@@ -7,6 +7,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 title: un strop de... | ceva bun
 logo: /assets/images/Logo2.jpg # You can add own logo
 description: # Add your awesome description
+lang: ro # Default site language
 copyright: Copyright 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
 # Preloader
 preloader: true # To disable preloader change value to false
@@ -18,6 +19,14 @@ menu:
     url: /despre/
   - name: contact
     url: /contact/
+
+menu_de:
+  - name: Start
+    url: /de/
+  - name: Über mich
+    url: /de/ueber-mich/
+  - name: Kontakt
+    url: /de/kontakt/
 
 # *** NOTE ***
 # You can add submenus. For example:
@@ -92,6 +101,12 @@ defaults:
       path: "_pages"
     values:
       permalink: /:basename:output_ext
+      lang: "ro"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      lang: "ro"
 
 include:
   - _pages

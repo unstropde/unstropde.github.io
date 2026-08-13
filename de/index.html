@@ -1,0 +1,63 @@
+---
+layout: default
+lang: de
+permalink: /de/
+title: un strop de... | ceva bun
+---
+
+{% assign cur_lang = "de" %}
+{% assign t = site.data.translations[cur_lang] %}
+{% assign de_posts = site.posts | where: "lang", "de" %}
+
+{% if site.featured-post-slider == true %}
+<!-- featured post -->
+<section>
+  <div class="container-fluid p-sm-0">
+    <div class="row featured-post-slider">
+      {% for post in de_posts %}
+      {% if post.featured == true %}
+      <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
+        <article class="card bg-dark text-center text-white border-0 rounded-0">
+          <img class="card-img rounded-0 img-fluid w-100" src="{{post.image | relative_url}}" alt="{{post.title}}">
+          <div class="card-img-overlay">
+            <div class="card-content">
+              {% for category in post.categories %}
+              <a class="d-block mb-3 text-white text-uppercase" href="{{ 'category/' | relative_url }}{{ category | slugify }}">{{ category }}</a>
+              {% endfor %}
+              <h4 class="card-title mb-4"><a class="text-white" href="{{ post.url | relative_url }}">{{post.title}}</a></h4>
+              <a class="btn btn-outline-light" href="{{ post.url | relative_url }}">{{ t.read_more }}</a>
+            </div>
+          </div>
+        </article>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /featured post -->
+{% endif %}
+
+<!-- blog post -->
+<section class="section">
+  <div class="container">
+    <div class="row masonry-container">
+      {% for post in de_posts %}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        <article class="text-center">
+          <img class="img-fluid mb-4" src="{{post.image | relative_url}}" alt="{{post.title}}">
+          {% for category in post.categories %}
+          <a class="d-block mb-3 text-dark text-uppercase" href="{{ 'category/' | relative_url }}{{ category | slugify }}">{{ category }}</a>
+          {% endfor %}
+          <h4 class="title-border"><a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h4>
+          <p>{{ post.content | strip_html | truncatewords: 35 }}</p>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-transparent">{{ t.read_more }}</a>
+        </article>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /blog post -->
+
+{% include instagram.html %}

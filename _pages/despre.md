@@ -3,6 +3,8 @@ layout: page
 title: despre mine
 permalink: /despre/
 image: /assets/images/profil_thumb.jpeg
+lang: ro
+translation_id: despre
 ---
 <h3 class="font-weight-light">Hei, servus! Eu sunt Irina <span class="font-weight-bold">{{Irina}}</span></h3>
 

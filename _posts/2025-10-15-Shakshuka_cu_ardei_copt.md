@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/Schakschuka_thumb.jpeg"
 categories: 
   - "mic dejun"
+lang: ro
+translation_id: shakshuka-ardei-copt
 ---
 
 

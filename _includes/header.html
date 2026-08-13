@@ -1,4 +1,8 @@
 <header class="navigation">
+  {% assign cur_lang = page.lang | default: site.lang | default: "ro" %}
+  {% assign t = site.data.translations[cur_lang] %}
+  {% assign nav_items = site.menu %}
+  {% if cur_lang == "de" %}{% assign nav_items = site.menu_de %}{% endif %}
   <nav class="navbar navbar-expand-lg navbar-light">
     {% if site.logo %}
     <a class="navbar-brand" href="{{site.baseurl | absolute_url}}"><img class="img-fluid" src="{{site.logo | relative_url}}" alt="{{site.title}}"></a>
@@ -10,7 +14,7 @@
 
     <div class="collapse navbar-collapse text-center" id="navogation">
       <ul class="navbar-nav ml-auto">
-        {% for menu-item in site.menu %}
+        {% for menu-item in nav_items %}
         {% if menu-item.submenu %}
         <li class="nav-item dropdown">
           <a class="nav-link text-uppercase text-dark dropdown-toggle" href="#" id="navbarDropdown"
@@ -31,9 +35,10 @@
         {% endfor %}
       </ul>
       <form class="form-inline position-relative ml-lg-4" action="/search.html" method="get">
-        <input class="form-control px-0 w-100" type="search" id="search-box" name="query" placeholder="Search">
+        <input class="form-control px-0 w-100" type="search" id="search-box" name="query" placeholder="{{ t.search_placeholder }}">
         <button class="search-icon" type="submit"><i class="ti-search text-dark"></i></button>
       </form>
+      {% include language-switcher.html %}
     </div>
   </nav>
 </header>

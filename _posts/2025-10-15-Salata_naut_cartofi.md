@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/Salata_naut_cartofi_thumb.jpeg"
 categories: 
   - "salata"
+lang: ro
+translation_id: salata-naut-cartofi
 ---
 
 

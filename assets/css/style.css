@@ -538,6 +538,38 @@ textarea.form-control {
           transform: translateY(-50%);
 }
 
+.lang-switcher {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 20px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: .05em;
+}
+
+.lang-switcher .lang-current {
+  color: #3a2620;
+}
+
+.lang-switcher .lang-link {
+  color: #c1592b;
+}
+
+.lang-switcher .lang-link:hover {
+  color: #3a2620;
+}
+
+.lang-switcher .lang-disabled {
+  color: #b0a08e;
+  cursor: default;
+}
+
+.lang-switcher .lang-sep {
+  margin: 0 6px;
+  color: #b0a08e;
+}
+
 .card-img-overlay::before {
   position: absolute;
   content: "";

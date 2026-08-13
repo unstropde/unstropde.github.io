@@ -1,20 +1,23 @@
 <div class="col-lg-4">
+  {% assign cur_lang = page.lang | default: site.lang | default: "ro" %}
+  {% assign t = site.data.translations[cur_lang] %}
+  {% assign lang_posts = site.posts | where: "lang", cur_lang %}
   <div class="widget search-box">
     <form action="/search.html" method="get">
       <i class="ti-search"></i>
-      <input type="search" id="search-box" class="form-control border-0 pl-5" name="query" placeholder="Search">
+      <input type="search" id="search-box" class="form-control border-0 pl-5" name="query" placeholder="{{ t.search_placeholder }}">
     </form>
   </div>
   <div class="widget">
-    <h6 class="mb-4">LATEST POST</h6>
-    {% for post in site.posts limit:3 %}
+    <h6 class="mb-4">{{ t.latest_post | upcase }}</h6>
+    {% for post in lang_posts limit:3 %}
     <div class="media mb-4">
       <div class="post-thumb-sm mr-3">
         <img class="img-fluid" src="{{post.image | relative_url }}" alt="{{ post.title }}">
       </div>
       <div class="media-body">
         <ul class="list-inline d-flex justify-content-between mb-2">
-          <li class="list-inline-item">Post By {{site.author.name | split: ' ' | first}}</li>
+          <li class="list-inline-item">{{ t.post_by }} {{site.author.name | split: ' ' | first}}</li>
           <li class="list-inline-item">{{post.date | date: "%B %-d, %Y"}}</li>
         </ul>
         <h6><a class="text-dark" href="{{ post.url }}">{{ post.title }}</a></h6>
@@ -23,10 +26,20 @@
     {% endfor %}
   </div>
   <div class="widget">
-    <h6 class="mb-4">CATEGORIES</h6>
+    <h6 class="mb-4">{{ t.categories | upcase }}</h6>
+    {% assign lang_categories = "" %}
+    {% for post in lang_posts %}
+      {% for cat in post.categories %}
+        {% assign catkey = cat | append: "|" %}
+        {% unless lang_categories contains catkey %}
+          {% assign lang_categories = lang_categories | append: catkey %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+    {% assign lang_categories = lang_categories | split: "|" %}
     <ul class="list-inline tag-list">
-      {% for category in site.categories %}
-      <li class="list-inline-item m-1"><a href="{{ 'category/' | relative_url }}{{ category | first | slugify }}">{{ category | first }}</a></li>
+      {% for category in lang_categories %}
+      <li class="list-inline-item m-1"><a href="{{ 'category/' | relative_url }}{{ category | slugify }}">{{ category }}</a></li>
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </ul>
