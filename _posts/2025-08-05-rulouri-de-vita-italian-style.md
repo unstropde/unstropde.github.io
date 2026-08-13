@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/rulada_thumb.jpeg"
 categories: 
   - "fel principal"
+lang: ro
+translation_id: rulouri-vita-italian-style
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

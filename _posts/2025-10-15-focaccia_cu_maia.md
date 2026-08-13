@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/focaccia_coapta_creuset_thumb.jpeg"
 categories: 
   - "pâine"
+lang: ro
+translation_id: focaccia-maia
 ---
 
 

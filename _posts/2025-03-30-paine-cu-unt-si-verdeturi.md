@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/zupfbrot_thumb.jpg"
 categories: 
   - "pâine"
+lang: ro
+translation_id: paine-unt-verdeturi
 ---
 
 

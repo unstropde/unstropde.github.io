@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/featured-post/peanutbutter_banana_snickers_thumb.jpeg"
 categories: 
   - "ceva dulce"
+lang: ro
+translation_id: snack-banane-curmale
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

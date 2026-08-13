@@ -7,6 +7,8 @@ featured: false
 image: "assets/images/masonary-post/salata_cartofi_crocanti_thumb.jpg"
 categories: 
   - "salata"
+lang: ro
+translation_id: salata-cartofi-crocanti-paprika
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

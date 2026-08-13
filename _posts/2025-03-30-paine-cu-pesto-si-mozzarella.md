@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/masonary-post/paine_pesto_mozzarella_thumb.jpg"
 categories: 
   - "pâine"
+lang: ro
+translation_id: paine-pesto-mozzarella
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/salata_iarna_amestecata_thumb.jpeg"
 categories: 
   - "salata"
+lang: ro
+translation_id: salata-iarna-fenicul-kale
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

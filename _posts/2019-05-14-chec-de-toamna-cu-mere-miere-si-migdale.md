@@ -7,6 +7,8 @@ featured: false
 image: "/assets/images/chec_mere_thumb.jpg"
 categories:
   - "ceva dulce"
+lang: ro
+translation_id: chec-toamna-mere-miere-migdale
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

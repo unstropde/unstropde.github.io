@@ -7,6 +7,8 @@ featured: false
 image: "/assets/images/pui_miere_lamaie_gatit_thumb.jpeg"
 categories:
   - "fel principal"
+lang: ro
+translation_id: pui-caramelizat-miere-lamaie
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

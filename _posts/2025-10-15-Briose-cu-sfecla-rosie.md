@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/muffins_sfecla_thumb.jpeg"
 categories: 
   - "ceva dulce"
+lang: ro
+translation_id: briose-sfecla-rosie
 ---
 
 

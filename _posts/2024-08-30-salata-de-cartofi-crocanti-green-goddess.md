@@ -7,6 +7,8 @@ featured: false
 image: "assets/images/Salata_cartofi_green_goddess_temp.jpeg"
 categories: 
   - "salata"
+lang: ro
+translation_id: salata-cartofi-crocanti-green-goddess
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/Knoedel_crud_thumb.jpeg"
 categories: 
   - "fel principal"
+lang: ro
+translation_id: knoedel-sfecla-spanac
 ---
 
 

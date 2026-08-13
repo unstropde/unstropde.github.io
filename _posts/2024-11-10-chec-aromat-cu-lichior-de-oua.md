@@ -7,6 +7,8 @@ featured: false
 image: "/assets/images/chec_aromat_lichior_oua_thumb.jpg"
 categories:
   - "ceva dulce"
+lang: ro
+translation_id: chec-aromat-lichior-oua
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

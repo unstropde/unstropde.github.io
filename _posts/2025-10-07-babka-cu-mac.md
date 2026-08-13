@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/Babka_copt_thumb.jpeg"
 categories: 
   - "ceva dulce"
+lang: ro
+translation_id: babka-mac
 ---
 
 

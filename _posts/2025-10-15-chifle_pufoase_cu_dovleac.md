@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/chifle_dovleac_thumb.jpeg"
 categories: 
   - "pâine"
+lang: ro
+translation_id: chifle-dovleac
 ---
 
 

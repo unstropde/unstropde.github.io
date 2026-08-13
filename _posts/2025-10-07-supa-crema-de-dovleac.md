@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/supa_crema_dovleac_thumb.jpeg"
 categories: 
   - "supe"
+lang: ro
+translation_id: supa-crema-dovleac
 ---
 
 

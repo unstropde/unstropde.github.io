@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/featured-post/tomatoes_galette_thumb.jpg"
 categories: 
   - "tarte/ quiche"
+lang: ro
+translation_id: galette-vara
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

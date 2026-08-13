@@ -7,6 +7,8 @@ featured: false
 image: "/assets/images/IMG_2239.jpg"
 categories:
   - "ceva dulce"
+lang: ro
+translation_id: galuste-prune
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

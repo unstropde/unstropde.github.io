@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/featured-post/melci_stafide_thumb.jpeg"
 categories: 
   - "ceva dulce"
+lang: ro
+translation_id: melci-stafide
 ---
 
 <table style="width: 100%; border-collapse: collapse;">

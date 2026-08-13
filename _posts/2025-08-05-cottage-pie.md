@@ -7,6 +7,8 @@ featured: true
 image: "assets/images/cottage_pie_crud_thumb.jpeg"
 categories: 
   - "fel principal"
+lang: ro
+translation_id: cottage-pie
 ---
 
 <table style="width: 100%; border-collapse: collapse;">
