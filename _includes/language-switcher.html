@@ -1,5 +1,7 @@
 {% assign cur_lang = page.lang | default: site.lang | default: "ro" %}
 {% assign other_url = nil %}
+{% assign is_post = false %}
+{% if page.date %}{% assign is_post = true %}{% endif %}
 {% if page.translation_id %}
   {% assign target_lang = "de" %}
   {% if cur_lang == "de" %}{% assign target_lang = "ro" %}{% endif %}
@@ -15,6 +17,8 @@
       {% endif %}
     {% endfor %}
   {% endif %}
+{% elsif is_post %}
+  {% comment %} post with no translation yet: leave other_url nil so it greys out {% endcomment %}
 {% elsif cur_lang == "ro" %}
   {% assign other_url = "/de/" %}
 {% else %}
